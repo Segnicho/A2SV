@@ -14,3 +14,5 @@ class Solution:
             if newS[i] != newS[(n-1-i)]:
                 return False
         return True
+
+        
